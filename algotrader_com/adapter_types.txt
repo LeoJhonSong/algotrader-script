@@ -1,0 +1,49 @@
+adapter_type (str): <ul style="max-height: 50px; overflow: auto; width:400px; list-style-type: circle;"><li><b>B2C2</b>:<i> B2C2</i>
+    <li><b>BB</b>:<i> BloomBerg</i>
+    <li><b>BF</b>:<i> Blockfills</i>
+    <li><b>BFL</b>:<i> BitFlyer</i>
+    <li><b>BFX</b>:<i> Bitfinex</i>
+    <li><b>BHB</b>:<i> Bithumb Pro</i>
+    <li><b>BMX</b>:<i> BitMEX</i>
+    <li><b>BNC</b>:<i> Binance</i>
+    <li><b>BNCF</b>:<i> Binance USDT Futures</i>
+    <li><b>BNCD</b>:<i> Binance Coin Futures</i>
+    <li><b>BTCSUISSE</b>:<i> Bitcoin Suisse</i>
+    <li><b>BTS</b>:<i> BitStamp</i>
+    <li><b>BTX</b>:<i> Bittrex</i>
+    <li><b>CNB</b>:<i> Coinbase Pro</i>
+    <li><b>CNP</b>:<i> CoinAPI</i>
+    <li><b>CNX</b>:<i> Currenex Fix interface</i>
+    <li><b>COMPOSITE</b>:<i> Marks transformed data that is composed of data from multiple adapters</i>
+    <li><b>DC</b>:<i> DukasCopy Fix Interface</i>
+    <li><b>DRB</b>:<i> Deribit</i>
+    <li><b>EQS</b>:<i> Equos</i>
+    <li><b>EMSX</b>:<i> EMSxNet</i>
+    <li><b>ETX</b>:<i> eToroX Spot</i>
+    <li><b>FTX</b>:<i> Fortex Fix interface</i>
+    <li><b>FXCM</b>:<i> FXCM Fix interface</i>
+    <li><b>GMN</b>:<i> Gemini</i>
+    <li><b>HBI</b>:<i> Huobi Spot</i>
+	<li><b>IB</b>:<i> Interactive Brokers Interface</i>
+    <li><b>INTR</b>:<i> Intrinio</i>
+    <li><b>JPM</b>:<i> J.P.Morgan Fix Interface</i>
+    <li><b>KKS</b>:<i> Kraken Spot</i>
+    <li><b>LMAXG</b>:<i> LMAX Global Fix interface</i>
+    <li><b>LMAXD</b>:<i> LMAX Digital Fix interface</i>
+    <li><b>NXS</b>:<i> Nexus Fix interface</i>
+    <li><b>OKEX</b>:<i> OKEx</i>
+    <li><b>OKCOIN</b>:<i> OKCoin</i>
+    <li><b>OZ</b>:<i> One-Zero</i>
+    <li><b>PLN</b>:<i> Poloniex</i>
+    <li><b>PXM</b>:<i> PrimeXM Fix interface</i>
+    <li><b>QDL</b>:<i> Quandl</i>
+    <li><b>QH</b>:<i> QuantHouse</i>
+    <li><b>RT</b>:<i> RealTick Fix interface</i>
+    <li><b>REFINITIV</b>:<i> Refinitiv (Reuters)</i>
+    <li><b>SG</b>:<i> SocGen Fix Interface</i>
+    <li><b>SIM</b>:<i> Simulation</i>
+    <li><b>TDB</b>:<i> Tradebook</i>
+    <li><b>TT</b>:<i> Trading Technologies Fix interface</i>
+    <li><b>UBS</b>:<i> UBS</i>
+    <li><b>XNT</b>:<i> Exante Fix</i>
+</ul>

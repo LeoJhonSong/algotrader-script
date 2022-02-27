@@ -1,0 +1,19 @@
+exchanges:
+  Deribit:
+    account_id: 57
+    security_id: 14330
+    minimum_tick: 0.5
+  FTX:
+    account_id: 11227
+    security_id: 16172
+    minimum_tick: 1
+
+quantity: 1000
+
+# a constant with a minimum value of 50 (initially), to be adjusted in
+# backtesting (a trade-off between trading opportunities and profitability per
+# trade)
+entry_threshold: 50
+
+# to be backtested (e.g. 1000 seconds)
+t: 1000
